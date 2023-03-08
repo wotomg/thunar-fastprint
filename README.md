@@ -1,6 +1,6 @@
 # thunar-fastprint
-Thunar custom action printing.
-Fast way to print multiple files from Thunar. You can print some grafical and text files from contex menu in Thunar.
+Custom printing action for Thunar.
+Еру quick way to print multiple files from Thunar. You can print some grafical and text files from contex menu in Thunar.
 Just like in Windows.
 
 ## Installation
